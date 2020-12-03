@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #969696;
+}
+
+.quem-somos{
+    background-color: #BBBBBB;
+}
+
+.margin{
+    padding: 40px 0px; /*foi utilzado padding ao invés do margin para que não exista um espaco em branco na página*/
+
+}
+
+.parceiros{
+    background-color: #DDDDDD;
+}
+
+.servicos{
+    background-color: #888888;
+    color: white;
+}
